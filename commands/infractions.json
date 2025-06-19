@@ -1,0 +1,55 @@
+{
+    "lastId": 5,
+    "infractions": [
+        {
+            "id": 1,
+            "userId": "1062087749873713162",
+            "reason": "easy",
+            "type": "Strike",
+            "date": "2025-06-17T19:23:14.064Z",
+            "expiration": 1751397794,
+            "issuerId": "772800853710077953",
+            "notes": "easy"
+        },
+        {
+            "id": 2,
+            "userId": "1153091795010469899",
+            "reason": "fat",
+            "type": "Blacklisted",
+            "date": "2025-06-17T19:32:44.679Z",
+            "expiration": 1751398364,
+            "issuerId": "772800853710077953",
+            "notes": "None"
+        },
+        {
+            "id": 3,
+            "userId": "1153091795010469899",
+            "reason": "ugly fat hoe",
+            "type": "Blacklisted",
+            "date": "2025-06-17T19:38:15.957Z",
+            "expiration": 1751398695,
+            "issuerId": "1062087749873713162",
+            "notes": "ima make sure u die first during ww3"
+        },
+        {
+            "id": 4,
+            "userId": "1361941969512829139",
+            "reason": "Inactive",
+            "type": "Inactivity Notice",
+            "date": "2025-06-17T20:30:24.222Z",
+            "expiration": 1751401824,
+            "issuerId": "1062087749873713162",
+            "notes": "Failure to be active, will result in a demotion or possibly a termination."
+        },
+        {
+            "id": 5,
+            "userId": "1361941969512829139",
+            "reason": "Inactive",
+            "type": "Inactivity Notice",
+            "date": "2025-06-17T20:32:14.377Z",
+            "expiration": 1751401934,
+            "issuerId": "1062087749873713162",
+            "notes": "Failure to be active can and will result in a demotion or termination."
+        }
+    ]
+}
